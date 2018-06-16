@@ -1,0 +1,1 @@
+print('fileio package is getting initialized')
